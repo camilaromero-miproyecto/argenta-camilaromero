@@ -1,0 +1,100 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'poppins', sans-serif;
+}
+
+
+h1{
+    background-color: brown;
+    font-size: 40px;
+    color: beige;
+    font-family: 'poppins', sans-serif;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h2{
+    background-color:#a4330d ;
+    color: beige;
+    font-family: 'poppins', sans-serif;
+}
+
+h3{
+    background-color: #b95634;
+    color: beige;
+    font-family: 'poppins', sans-serif;
+}
+
+form p{
+    font-size: 20px;
+    font-weight: 200;
+    background-color: #642813;
+    font-family: 'poppins', sans-serif;
+}
+
+#checkbox{
+    background-color: #b95634;
+}
+
+section form p{
+    color: beige;
+    font-family: 'poppins', sans-serif;
+}
+main form p{
+    color: beige;
+    font-family: 'poppins', sans-serif;
+}
+
+
+header h2{
+    font-size: 30px;
+    background-color:#a65e2e ;
+    text-align: center;
+}
+form label{
+    font-family: 'poppins', sans-serif;
+    color: #a4330d; 
+}
+header{
+    height: 200px;
+    background-image: url('images/pizza1.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.card{
+    width: 40em;
+}
+.card img{
+width: 100%;
+}
+.card_principal{
+    width: 100em;
+}
+.card_principal img{
+    width: 100%;
+}
+.map{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*BS*/
+.nav-background{
+    background-color: #a65e2e;
+}
+.carrusel{
+    width: 50%;
+    position: relative;
+    left: 20rem;
+}
+
+.navbar-productos{
+    position: sticky;
+    top: 0;
+    height: 20px;
+}
