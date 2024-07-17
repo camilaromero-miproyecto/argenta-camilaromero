@@ -1,0 +1,7 @@
+
+header{
+    height: 200px;
+    background-image: url(../images/img.pizza-napo.JPG);
+  @include posiciones-header (center, cover);
+ 
+    }

@@ -1,0 +1,4 @@
+@mixin posiciones-header ($pos, $size){
+    background-position: $pos;
+    background-size: $size;
+}
