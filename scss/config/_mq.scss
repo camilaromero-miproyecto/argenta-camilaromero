@@ -1,0 +1,17 @@
+@media only screen and (max-width: 500px){
+    .grid_container{
+     display: inline-block;
+      
+    }
+    body{
+    background-color: rgb(32, 29, 29);
+    color: $beige;
+    }
+   .list{
+    color: $beige;
+   }
+   .card-text-img{
+    font-size: 45px;
+   }
+  
+}

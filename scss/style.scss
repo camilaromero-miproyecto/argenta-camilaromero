@@ -1,11 +1,18 @@
 // RESET //
 @import './config/var';
 @import './config/reset';
+@import './config/grid';
 @import './config/mixin';
 @import './bs';
 @import './font';
+
+
 
 //LAYOUT//
 @import './barra-menu';
 @import './cards';
 @import './iframe';
+@import './footer';
+
+//MEDIA QUERIES//
+@import './config/mq';

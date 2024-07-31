@@ -2,9 +2,12 @@
 h1{
     background-color: $black ;
     font-size: $xl;
-    color: $beige
+    color: $beige;
+    text-align: center;
+    
 
 }
+
 
 h2{
     background-color: $black;
@@ -26,16 +29,16 @@ h4{
     font-family: $poppins;
     margin-top: $l;
     text-align: center;  
+
 }
-.first-list{
+.list{
     font-size: $m;
     color: $brown;
 }
-.second-list{
-    font-size: $m;
-    color: $brown;
-}
-.third-list{
-    font-size: $m;
-    color: $brown;
+.card-title{
+    color: $white;
+    font-family: $poppins;
+    margin-top: $l;
+    text-align: center;
+    
 }
